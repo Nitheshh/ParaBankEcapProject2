@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+       <class name="TestNG.Register"/>
+       <class name="TestNG.LoginUser"/>
+       <class name="TestNG.LoginWithWrongPassword"/>
+       <class name="TestNG.LoginWithWrongUsername"/>
+       <class name="TestNG.NewCheckingAccount"/>
+       <class name="TestNG.NewSavingAccount"/>
+       <class name="TestNG.TotalAccBalance"/>
+       <class name="TestNG.SpecificAccountActivities"/>
+       <class name="TestNG.TransactionsOfFeb"/>
+       <class name="TestNG.PayBills"/>
+       <class name="TestNG.ApplyLoan"/>
+       <class name="TestNG.UpdtaeMobileNumber"/>
+       <class name="TestNG.RegisterQuery"/>
+       <class name="TestNG.Logout"/>
+       <class name="TestNG.WithDrawFunds"/>
+       <class name="TestNG.ForumSearch"/>
+       <class name="TestNG.HoemPageTransferFunds"/>
+       <class name="TestNG.ParaBankOfficialWebsite"/>
+
+
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
